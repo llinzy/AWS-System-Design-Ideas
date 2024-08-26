@@ -14,3 +14,5 @@ I am looking for any suggestions for improvements.
 ![diagram](https://github.com/llinzy/AWS-System-Design-Ideas/blob/main/upgraded%20HQ.png)
 
 ![diagram](https://github.com/llinzy/AWS-System-Design-Ideas/blob/main/Upgraded%20fs.png)
+
+![diagram](https://github.com/llinzy/AWS-System-Design-Ideas/blob/main/Upgraded%20Plants.png)
